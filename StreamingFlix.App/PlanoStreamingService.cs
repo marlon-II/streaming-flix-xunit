@@ -27,23 +27,22 @@ namespace StreamingFlix.App
             }
         }
 
-        public double CalcularMensalidadeComDesconto(
-            int valorBase,
-            int mesesContratados)
-        {
-           switch (mesesContratados)
-            {
-                case mesesContratados >= 6 or mesesContratados <= 11:
-                    valorBase = valorBase - (valorBase * 0,10);
-                    break;
-                case mesesContratados >= 12:
-                    valorBase = valorBase - (valorBase *0,20);
-                    break;
-                default:
-                    valorBase = valorBase;
-                    break;
-            }
-        }
+        public double CalcularMensalidadeComDesconto(int valorBase, int mesesContratados)
+{
+    if (mesesContratados >= 6 && mesesContratados <= 11)
+    {
+        return valorBase - (valorBase * 0.10);
+    }
+    else if (mesesContratados >= 12)
+    {
+        return valorBase - (valorBase * 0.20);
+    }
+    else
+    {
+        return valorBase;
+    }
+}
+
 
         public bool PodeAcessarConteudoAdulto(
             int idade,
