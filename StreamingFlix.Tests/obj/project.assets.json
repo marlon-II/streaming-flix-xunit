@@ -930,19 +930,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\4251920432\\.nuget\\packages\\": {}
+    "C:\\Users\\4251924664\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\4251920432\\Documents\\StreamingFlix\\StreamingFlix.Tests\\StreamingFlix.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\4251924664\\Documents\\StreamingFlix-atualizado\\StreamingFlix.Tests\\StreamingFlix.Tests.csproj",
       "projectName": "StreamingFlix.Tests",
-      "projectPath": "C:\\Users\\4251920432\\Documents\\StreamingFlix\\StreamingFlix.Tests\\StreamingFlix.Tests.csproj",
-      "packagesPath": "C:\\Users\\4251920432\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\4251920432\\Documents\\StreamingFlix\\StreamingFlix.Tests\\obj\\",
+      "projectPath": "C:\\Users\\4251924664\\Documents\\StreamingFlix-atualizado\\StreamingFlix.Tests\\StreamingFlix.Tests.csproj",
+      "packagesPath": "C:\\Users\\4251924664\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\4251924664\\Documents\\StreamingFlix-atualizado\\StreamingFlix.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\4251920432\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\4251924664\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -955,8 +955,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\4251920432\\Documents\\StreamingFlix\\StreamingFlix.App\\StreamingFlix.App.csproj": {
-              "projectPath": "C:\\Users\\4251920432\\Documents\\StreamingFlix\\StreamingFlix.App\\StreamingFlix.App.csproj"
+            "C:\\Users\\4251924664\\Documents\\StreamingFlix-atualizado\\StreamingFlix.App\\StreamingFlix.App.csproj": {
+              "projectPath": "C:\\Users\\4251924664\\Documents\\StreamingFlix-atualizado\\StreamingFlix.App\\StreamingFlix.App.csproj"
             }
           }
         }

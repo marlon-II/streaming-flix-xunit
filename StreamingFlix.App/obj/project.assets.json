@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\4251920432\\.nuget\\packages\\": {}
+    "C:\\Users\\4251924664\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\4251920432\\Documents\\StreamingFlix\\StreamingFlix.App\\StreamingFlix.App.csproj",
+      "projectUniqueName": "C:\\Users\\4251924664\\Documents\\StreamingFlix-atualizado\\StreamingFlix.App\\StreamingFlix.App.csproj",
       "projectName": "StreamingFlix.App",
-      "projectPath": "C:\\Users\\4251920432\\Documents\\StreamingFlix\\StreamingFlix.App\\StreamingFlix.App.csproj",
-      "packagesPath": "C:\\Users\\4251920432\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\4251920432\\Documents\\StreamingFlix\\StreamingFlix.App\\obj\\",
+      "projectPath": "C:\\Users\\4251924664\\Documents\\StreamingFlix-atualizado\\StreamingFlix.App\\StreamingFlix.App.csproj",
+      "packagesPath": "C:\\Users\\4251924664\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\4251924664\\Documents\\StreamingFlix-atualizado\\StreamingFlix.App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\4251920432\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\4251924664\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
